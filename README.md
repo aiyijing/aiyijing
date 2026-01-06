@@ -1,11 +1,24 @@
 # Hello, I'm aiyijing! 👋
 
-## Skills
+Backend/Platform Engineer focused on building reliable, scalable services and cloud-native infrastructure.
 
- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+## Tech Stack
+
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Cloud Native & DevOps**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## What I Do
+
+- Design and build high-performance backend services
+- Automate infrastructure with containers and orchestration
+- Improve reliability, observability, and deployment workflows
 
 ## Stats
 
